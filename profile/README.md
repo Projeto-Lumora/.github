@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/LumoraBanner.png" alt='Lumora' width="50%">
+  <img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/bannerLumora.png" alt='Lumora' width="50%">
 </div>
 <h1 align="center">Seja bem-vindo(a) ao Github da Lumora </h1>
 <p align="center">Lumora é um aplicativo de segurança pessoal voltado para mulheres, oferecemos </p>
