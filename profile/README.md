@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/bannerLumora.png" alt='Lumora' width="50%">
+  <img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/bannerLumora.png" alt='Lumora' width="40%">
 </div>
 <h1 align="center">Seja bem-vindo(a) ao Github da Lumora </h1>
-<p align="center">Lumora é um aplicativo de segurança pessoal voltado para mulheres, oferecemos </p>
+<p align="center">Lumora é um aplicativo de segurança pessoal voltado para mulheres, oferecemos uma solução que une empatia, acolhimento e segurança em um só lugar.</p>
 
 ---
 
