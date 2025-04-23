@@ -1,43 +1,21 @@
-<p align="center">
-  <img src="LINK_DA_SUA_LOGO" alt="Logo da Lumora" width="200"/>
-</p>
-
-<h1 align="center">Lumora</h1>
-
-<p align="center">
-  Aplicativo em desenvolvimento focado na <strong>segurança de mulheres</strong>, com recursos de proteção, comunidades seguras e design discreto.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" />
-  <img src="https://img.shields.io/badge/feito%20com-Kotlin-blue" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-UI-red" />
-</p>
+<div align="center">
+  <img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/LumoraBanner.png" alt='Lumora' width="50%">
+</div>
+<h1 align="center">Seja bem-vindo(a) ao Github da Lumora </h1>
+<p align="center">Lumora é um aplicativo de segurança pessoal voltado para mulheres, oferecemos </p>
 
 ---
 
-## 💡 Sobre
+## Missão 🎯
+<p align="left">O nosso objetivo é alcançar mulheres em situação de risco, como assédio e violência, oferecendo uma solução portátil e acessível por meio de aparelhos móveis. </p>
 
-O **Lumora** é um app que oferece funcionalidades de apoio e segurança para mulheres em situações de risco.  
+## Visão 👀
+<p align="left">Pretendemos utilizar uma ferramenta ao alcance de milhões de brasileiras: o aparelho móvel. Com base em nossas pesquisas, buscamos oferecer soluções ágeis e simplificadas capazes de atender diversas situações de risco. Além de disponibilizar ferramentas, queremos construir uma comunidade segura e acolhedora para as mulheres. O nosso propósito é transformar a exposição desses crimes numa oportunidade de redesenhar o cenário de fragilidade.</p>
 
-🔒 Botão de emergência  
-🎭 Modo disfarçado  
-📍 Compartilhamento de localização  
-👭 Comunidades protegidas
+## Valores 🛡️
+<p align="left">	Empatia, Respeito, Igualdade, Sororidade, 	Segurança, Acessibilidade, Agilidade e Conectividade.</p>
 
----
-
-## 🛠️ Tecnologias
-
-- Kotlin + Jetpack Compose  
-
----
-
-## 🧠 Time
-
-| ![](https://via.placeholder.com/100) | ![](https://via.placeholder.com/100) |
-|:--:|:--:|
-| Nome 1 | Nome 2 |
+## Equipe Lumora 🫂
 
 ---
 
