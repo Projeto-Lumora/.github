@@ -23,7 +23,7 @@
 
 ## 📬 Contato
 
-- Email: contato@lumora.com  
-- Instagram: [@lumoraapp](https://instagram.com/lumoraapp)
+- Email: lumora.devteam@gmail.com  
+- Instagram: [@projeto_lumora](https://www.instagram.com/projeto_lumora/)
 
 ---
