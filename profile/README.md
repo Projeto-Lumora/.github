@@ -15,6 +15,8 @@
 ## Valores 🛡️
 <p align="left">	Empatia, Respeito, Igualdade, Sororidade, 	Segurança, Acessibilidade, Agilidade e Conectividade.</p>
 
+---
+
 ## Equipe Lumora 🫂
 
 ---
