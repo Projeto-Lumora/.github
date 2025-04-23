@@ -33,16 +33,6 @@ O **Lumora** é um app que oferece funcionalidades de apoio e segurança para mu
 
 ---
 
-## 📲 Imagens
-
-> *(adicione aqui prints ou protótipos)*
-
-| Início | Emergência | Comunidade |
-|-------|------------|------------|
-| ![](link1) | ![](link2) | ![](link3) |
-
----
-
 ## 🧠 Time
 
 | ![](https://via.placeholder.com/100) | ![](https://via.placeholder.com/100) |
