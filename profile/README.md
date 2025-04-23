@@ -18,7 +18,9 @@
 ---
 
 ## Equipe Lumora 🫂
-
+<div align='center'>
+  <a href="https://www.linkedin.com/in/ana-julia-lima-680677337/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/naju lima.png" alt='Ana Julia' width="200px"></a>
+</div>
 ---
 
 ## 📬 Contato
