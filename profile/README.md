@@ -19,14 +19,14 @@
 
 ## Equipe Lumora 🫂
 <div align='center'>
-  <a href="https://www.linkedin.com/in/ana-julia-lima-680677337/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/naju lima.png" alt='Ana Julia' width="200px"></a>
-  <a href="https://www.linkedin.com/in/maycon-ryan-alves-dos-santos-67b19a314/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/maycon.png" alt='Maycon Ryan' width="200px"></a>
-  <a href="https://www.linkedin.com/in/julia-barbosa-0a3213298/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/julia lima.png" alt='Julia Lima' width="200px"></a>
-  <a href="https://www.linkedin.com/in/victor-gonçalves-mantovani-a1b25820a/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/victor mantovani.png" alt='Victor Mantovani' width="200px"></a>
-  <a href="https://www.linkedin.com/in/júlia-coelho-4a5b15283/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/julia coelho.png" alt='Julia Coelho' width="200px"></a>
-  <a href="https://www.linkedin.com/in/gabriel-alves-borges-93163b231/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/gabriel alves.png" alt='Gabriel Alves Borges' width="200px"></a>
-  <a href="https://www.linkedin.com/in/joão-de-almeida-and/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/joao.png" alt='João de Almeida' width="200px"></a>
-  <a href="https://www.linkedin.com/in/denise-nunes-64bb6023b/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/denise.png" alt='Denise Nunes' width="200px"></a>
+  <a href="https://www.linkedin.com/in/ana-julia-lima-680677337/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/naju lima.png" alt='Ana Julia' width="180px"></a>
+  <a href="https://www.linkedin.com/in/maycon-ryan-alves-dos-santos-67b19a314/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/maycon.png" alt='Maycon Ryan' width="190px"></a>
+  <a href="https://www.linkedin.com/in/julia-barbosa-0a3213298/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/julia lima.png" alt='Julia Lima' width="190px"></a>
+  <a href="https://www.linkedin.com/in/victor-gonçalves-mantovani-a1b25820a/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/victor mantovani.png" alt='Victor Mantovani' width="180px"></a>
+  <a href="https://www.linkedin.com/in/júlia-coelho-4a5b15283/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/julia coelho.png" alt='Julia Coelho' width="190px"></a>
+  <a href="https://www.linkedin.com/in/gabriel-alves-borges-93163b231/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/gabriel alves.png" alt='Gabriel Alves Borges' width="190px"></a>
+  <a href="https://www.linkedin.com/in/joão-de-almeida-and/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/joao.png" alt='João de Almeida' width="190px"></a>
+  <a href="https://www.linkedin.com/in/denise-nunes-64bb6023b/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/denise.png" alt='Denise Nunes' width="190px"></a>
 </div>
 
 
