@@ -28,6 +28,7 @@
   <a href="https://www.linkedin.com/in/joão-de-almeida-and/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/joao.png" alt='João de Almeida' width="200px"></a>
   <a href="https://www.linkedin.com/in/denise-nunes-64bb6023b/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/denise.png" alt='Denise Nunes' width="200px"></a>
 </div>
+
 ---
 
 ## 📬 Contato
