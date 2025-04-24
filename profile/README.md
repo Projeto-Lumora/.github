@@ -4,7 +4,7 @@
 <h1 align="center">Seja bem-vindo(a) ao Github da Lumora </h1>
 <p align="center">Lumora é um aplicativo de segurança pessoal voltado para mulheres, oferecemos uma solução que une empatia, acolhimento e segurança em um só lugar.</p>
 
----
+
 
 ## Missão 🎯
 <p align="justfy">O nosso objetivo é alcançar mulheres em situação de risco, como assédio e violência, oferecendo uma solução portátil e acessível por meio de aparelhos móveis. </p>
@@ -15,7 +15,7 @@
 ## Valores 🛡️
 <p align="justfy">	Empatia, Respeito, Igualdade, Sororidade, 	Segurança, Acessibilidade, Agilidade e Conectividade.</p>
 
----
+
 
 ## Equipe Lumora 🫂
 <div align='center'>
@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/denise-nunes-64bb6023b/" target="_blank"><img src="https://github.com/Projeto-Lumora/.github/blob/main/profile/denise.png" alt='Denise Nunes' width="200px"></a>
 </div>
 
----
+
 
 ## 📬 Contato
 
